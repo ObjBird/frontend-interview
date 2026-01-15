@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@primeuix/themes": "^2.0.2",
+    "primevue": "^4.5.4",
+    "vue": "^3.5.26"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.3"
+  }
+}
